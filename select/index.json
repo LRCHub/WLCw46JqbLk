@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ざらめ",
+  "base_artist": "あいみょん",
+  "createdAt": "2026-03-05T16:01:27.102106Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ざらめ",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/01_ざらめ_Aimyon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ざらめ - Zarame",
+      "artist": "aimyon",
+      "has_synced": true,
+      "path": "select/02_ざらめ_-_Zarame_aimyon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ざらめ",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_01_ざらめ_あいみょん.txt"
+    }
+  ]
+}
